@@ -1,0 +1,86 @@
+datum{string_values: [['artist', 'AR0BGM11187B9B09BA']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.00000011921}]
+datum{string_values: [['artist', 'AR30R5E1187B9AD78A']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.00000011921}]
+datum{string_values: [['artist', 'ARFWL8S1187B9B4B44']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.00000011921}]
+datum{string_values: [['artist', 'ARS54I31187FB46721']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.0}]
+datum{string_values: [['artist', 'AR0IVTL1187B9AD520']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.00000011921}]
+datum{string_values: [['artist', 'ARBEOHF1187B9B044D']], num_values: [], binary_values: []}
+[id_with_score{id: U002, score: 1.0}, id_with_score{id: U001, score: 0.40280687809}]
+datum{string_values: [['artist', 'AR33NJ21187B9AC3D9']], num_values: [], binary_values: []}
+[id_with_score{id: U002, score: 0.999999880791}, id_with_score{id: U001, score: 0.440289050341}]
+datum{string_values: [['artist', 'AR7C6G11187B9B4C1E']], num_values: [], binary_values: []}
+[id_with_score{id: U002, score: 1.0}, id_with_score{id: U001, score: 0.460761427879}]
+datum{string_values: [['artist', 'ARX6TAQ11C8A415850']], num_values: [], binary_values: []}
+[id_with_score{id: U002, score: 1.0}, id_with_score{id: U001, score: 0.477509051561}]
+datum{string_values: [['artist', 'ARFCUN31187B9AD578']], num_values: [], binary_values: []}
+[id_with_score{id: U003, score: 1.00000011921}, id_with_score{id: U001, score: 0.294851899147}, id_with_score{id: U002, score: 0.20086671412}]
+datum{string_values: [['artist', 'ARXPPEY1187FB51DF4']], num_values: [], binary_values: []}
+[id_with_score{id: U003, score: 0.999999880791}, id_with_score{id: U001, score: 0.384329468012}, id_with_score{id: U002, score: 0.339400172234}]
+datum{string_values: [['artist', 'ART4QZC1187FB51612']], num_values: [], binary_values: []}
+[id_with_score{id: U003, score: 0.999999880791}, id_with_score{id: U001, score: 0.406658798456}, id_with_score{id: U002, score: 0.371631979942}]
+datum{string_values: [['artist', 'ARQUMH41187B9AF699']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 1.00000011921}, id_with_score{id: U001, score: 0.16442643106}, id_with_score{id: U003, score: 0.155113354325}, id_with_score{id: U002, score: 0.124460972846}]
+datum{string_values: [['artist', 'ARBUOOR1187B997391']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 1.0}, id_with_score{id: U001, score: 0.209459587932}, id_with_score{id: U003, score: 0.188096031547}, id_with_score{id: U002, score: 0.146352350712}]
+datum{string_values: [['artist', 'ARCAQ8K1187FB437B0']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 1.0}, id_with_score{id: U001, score: 0.267924726009}, id_with_score{id: U003, score: 0.194550618529}, id_with_score{id: U002, score: 0.192129150033}]
+datum{string_values: [['artist', 'ARVAC3K1187FB4DED4']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 1.0}, id_with_score{id: U001, score: 0.29195907712}, id_with_score{id: U003, score: 0.242491587996}, id_with_score{id: U002, score: 0.201778545976}]
+datum{string_values: [['artist', 'ARKVITV1187B9AE854']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 0.999999880791}, id_with_score{id: U001, score: 0.29940918088}, id_with_score{id: U003, score: 0.258913129568}, id_with_score{id: U002, score: 0.214044004679}]
+datum{string_values: [['artist', 'ART5MUE1187B98C961']], num_values: [], binary_values: []}
+[id_with_score{id: U005, score: 1.0}, id_with_score{id: U004, score: 0.293887346983}, id_with_score{id: U001, score: 0.216722428799}, id_with_score{id: U003, score: 0.197145625949}, id_with_score{id: U002, score: 0.193339839578}]
+datum{string_values: [['artist', 'ARHTAPO1187FB5AADE']], num_values: [], binary_values: []}
+[id_with_score{id: U005, score: 1.00000011921}, id_with_score{id: U001, score: 0.296220600605}, id_with_score{id: U004, score: 0.283887505531}, id_with_score{id: U003, score: 0.229734152555}, id_with_score{id: U002, score: 0.168165966868}]
+datum{string_values: [['artist', 'AR3B7K91187B98C62E']], num_values: [], binary_values: []}
+[id_with_score{id: U005, score: 0.999999880791}, id_with_score{id: U001, score: 0.29940918088}, id_with_score{id: U004, score: 0.28947365284}, id_with_score{id: U003, score: 0.223606780171}, id_with_score{id: U002, score: 0.176271528006}]
+datum{string_values: [['artist', 'ARLO7621187FB387FB']], num_values: [], binary_values: []}
+[id_with_score{id: U005, score: 1.0}, id_with_score{id: U001, score: 0.370996057987}, id_with_score{id: U004, score: 0.342381179333}, id_with_score{id: U003, score: 0.251550197601}, id_with_score{id: U002, score: 0.234018176794}]
+datum{string_values: [['artist', 'ARBEOHF1187B9B044D']], num_values: [], binary_values: []}
+[id_with_score{id: U002, score: 1.0}, id_with_score{id: U003, score: 0.410391330719}, id_with_score{id: U001, score: 0.40280687809}, id_with_score{id: U005, score: 0.230967447162}, id_with_score{id: U004, score: 0.210297748446}]
+datum{string_values: [['artist', 'AR0BGM11187B9B09BA']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.00000011921}]
+datum{string_values: [['artist', 'AR30R5E1187B9AD78A']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.00000011921}]
+datum{string_values: [['artist', 'ARFWL8S1187B9B4B44']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.00000011921}]
+datum{string_values: [['artist', 'ARS54I31187FB46721']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.0}]
+datum{string_values: [['artist', 'AR0IVTL1187B9AD520']], num_values: [], binary_values: []}
+[id_with_score{id: U001, score: 1.00000011921}]
+datum{string_values: [['artist', 'ARBEOHF1187B9B044D']], num_values: [], binary_values: []}
+[id_with_score{id: U002, score: 1.0}, id_with_score{id: U001, score: 0.40280687809}]
+datum{string_values: [['artist', 'AR33NJ21187B9AC3D9']], num_values: [], binary_values: []}
+[id_with_score{id: U002, score: 0.999999880791}, id_with_score{id: U001, score: 0.440289050341}]
+datum{string_values: [['artist', 'AR7C6G11187B9B4C1E']], num_values: [], binary_values: []}
+[id_with_score{id: U002, score: 1.0}, id_with_score{id: U001, score: 0.460761427879}]
+datum{string_values: [['artist', 'ARX6TAQ11C8A415850']], num_values: [], binary_values: []}
+[id_with_score{id: U002, score: 1.0}, id_with_score{id: U001, score: 0.477509051561}]
+datum{string_values: [['artist', 'ARFCUN31187B9AD578']], num_values: [], binary_values: []}
+[id_with_score{id: U003, score: 1.00000011921}, id_with_score{id: U001, score: 0.294851899147}, id_with_score{id: U002, score: 0.20086671412}]
+datum{string_values: [['artist', 'ARXPPEY1187FB51DF4']], num_values: [], binary_values: []}
+[id_with_score{id: U003, score: 0.999999880791}, id_with_score{id: U001, score: 0.384329468012}, id_with_score{id: U002, score: 0.339400172234}]
+datum{string_values: [['artist', 'ART4QZC1187FB51612']], num_values: [], binary_values: []}
+[id_with_score{id: U003, score: 0.999999880791}, id_with_score{id: U001, score: 0.406658798456}, id_with_score{id: U002, score: 0.371631979942}]
+datum{string_values: [['artist', 'ARQUMH41187B9AF699']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 1.00000011921}, id_with_score{id: U001, score: 0.16442643106}, id_with_score{id: U003, score: 0.155113354325}, id_with_score{id: U002, score: 0.124460972846}]
+datum{string_values: [['artist', 'ARBUOOR1187B997391']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 1.0}, id_with_score{id: U001, score: 0.209459587932}, id_with_score{id: U003, score: 0.188096031547}, id_with_score{id: U002, score: 0.146352350712}]
+datum{string_values: [['artist', 'ARCAQ8K1187FB437B0']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 1.0}, id_with_score{id: U001, score: 0.267924726009}, id_with_score{id: U003, score: 0.194550618529}, id_with_score{id: U002, score: 0.192129150033}]
+datum{string_values: [['artist', 'ARVAC3K1187FB4DED4']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 1.0}, id_with_score{id: U001, score: 0.29195907712}, id_with_score{id: U003, score: 0.242491587996}, id_with_score{id: U002, score: 0.201778545976}]
+datum{string_values: [['artist', 'ARKVITV1187B9AE854']], num_values: [], binary_values: []}
+[id_with_score{id: U004, score: 0.999999880791}, id_with_score{id: U001, score: 0.29940918088}, id_with_score{id: U003, score: 0.258913129568}, id_with_score{id: U002, score: 0.214044004679}]
+datum{string_values: [['artist', 'ART5MUE1187B98C961']], num_values: [], binary_values: []}
+[id_with_score{id: U005, score: 1.0}, id_with_score{id: U004, score: 0.293887346983}, id_with_score{id: U001, score: 0.216722428799}, id_with_score{id: U003, score: 0.197145625949}, id_with_score{id: U002, score: 0.193339839578}]
+datum{string_values: [['artist', 'ARHTAPO1187FB5AADE']], num_values: [], binary_values: []}
+[id_with_score{id: U005, score: 1.00000011921}, id_with_score{id: U001, score: 0.296220600605}, id_with_score{id: U004, score: 0.283887505531}, id_with_score{id: U003, score: 0.229734152555}, id_with_score{id: U002, score: 0.168165966868}]
+datum{string_values: [['artist', 'AR3B7K91187B98C62E']], num_values: [], binary_values: []}
+[id_with_score{id: U005, score: 0.999999880791}, id_with_score{id: U001, score: 0.29940918088}, id_with_score{id: U004, score: 0.28947365284}, id_with_score{id: U003, score: 0.223606780171}, id_with_score{id: U002, score: 0.176271528006}]
+datum{string_values: [['artist', 'ARLO7621187FB387FB']], num_values: [], binary_values: []}
+[id_with_score{id: U005, score: 1.0}, id_with_score{id: U001, score: 0.370996057987}, id_with_score{id: U004, score: 0.342381179333}, id_with_score{id: U003, score: 0.251550197601}, id_with_score{id: U002, score: 0.234018176794}]
